@@ -9,3 +9,8 @@ Claude Code a modifié ce fichier.
 ## Streaming test
 
 Le streaming Claude Code fonctionne.
+
+## Review test
+
+Section ajoutée pour valider le flux de review Git.
+Voir [docs/review-test.md](docs/review-test.md) pour le détail.
