@@ -14,3 +14,6 @@ Le streaming Claude Code fonctionne.
 
 Section ajoutée pour valider le flux de review Git.
 Voir [docs/review-test.md](docs/review-test.md) pour le détail.
+
+Passe v2 (TASK-006) : seconde validation du même flux, sur modification de
+fichiers déjà suivis.
