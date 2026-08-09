@@ -17,3 +17,6 @@ Voir [docs/review-test.md](docs/review-test.md) pour le détail.
 
 Passe v2 (TASK-006) : seconde validation du même flux, sur modification de
 fichiers déjà suivis.
+
+Passe v3 (TASK-007) : la review Claude Code fonctionne.
+Les retours de review sont appliqués sans nouveau commit.
