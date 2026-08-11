@@ -22,3 +22,5 @@ Passe v3 (TASK-007) : la review Claude Code fonctionne.
 Les retours de review sont appliqués sans nouveau commit.
 
 Le test de correction est actif.
+
+Le test de review Architecte est actif.
